@@ -22,7 +22,7 @@ title/topic/description because the API returns nothing for an empty \
 query and has no wildcard — the result is effectively the newest \
 programmes. Video URLs are direct MP4 links (low / standard / HD); \
 subtitle_url is empty when no subtitles exist. Built by Mohammad Abbasi \
-(mohammad-abbasi-sh) — Germany MCP factory.\
+(mohammad-abbasi-sh) — https://almanibama.ir · https://mabbasi.ir — Germany MCP factory.\
 """
 
 mcp = FastMCP("mediathek-mcp", instructions=INSTRUCTIONS)
