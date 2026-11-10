@@ -13,7 +13,7 @@ In die MCP-Konfiguration eintragen (stdio):
   "mcpServers": {
     "mediathek": {
       "command": "uvx",
-      "args": ["mediathek-mcp"]
+      "args": ["mediathek-mcp==0.1.0"]
     }
   }
 }
