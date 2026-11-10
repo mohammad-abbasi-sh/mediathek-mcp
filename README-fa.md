@@ -13,7 +13,7 @@
   "mcpServers": {
     "mediathek": {
       "command": "uvx",
-      "args": ["mediathek-mcp==0.1.0"]
+      "args": ["mediathek-mcp==0.1.1"]
     }
   }
 }
